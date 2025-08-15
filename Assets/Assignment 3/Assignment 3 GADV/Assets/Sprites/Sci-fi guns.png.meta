@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 315de1b13b1658b4cb04bb6f7c68b7db
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sci-fi guns_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 923
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4737c6c7632fe94bbc31fb46929caec
+      internalID: 332201954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 923
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327e7cd7b8eaa7a42b085af580de844a
+      internalID: -1956980450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 923
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1be42b7e9e4b241b95e605188696f0
+      internalID: -1300685755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5673bdfd237bb2848b3bbf4005125341
+      internalID: 1873976275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 815
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3bbf52ce03b6d40a649dfda7d28f0c
+      internalID: -572764957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 815
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7d2dd7140d8ce4597b35f3324db054
+      internalID: -1215021118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb46f3e6d38f11541b9c6a113da4ebac
+      internalID: 1063867077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 706
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908098347018bd34e8c7d77b0f909513
+      internalID: 703406852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 706
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6523143c54dd9499c871559a3fcb69
+      internalID: 130859862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54bf6b99ddb7d64d9d6501d15d6ca7e
+      internalID: -1076088325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 605
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c866d21ac9d50f544986f9c2ff009589
+      internalID: 967872507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 605
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208ce16b57d83ab4ea9c0fd4a79484b4
+      internalID: -987670317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 86
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00156a84d3133e74ea8b7f7b4d2b2a57
+      internalID: 604847519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 505
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06646f5b2924f244b4bef8250c092be
+      internalID: 625226998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 505
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be0996f3c350b845b8f3473af475db9
+      internalID: -743913536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099fe2232bea36141988f3f109a33c67
+      internalID: 864775935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 404
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbc97fb46bb30446ae514d9c451815f
+      internalID: -510060288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 404
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f5f280e2a47e4eb95366395cd354a
+      internalID: 1759589112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 109
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399f64e0cc2401f43bcd3cf385277978
+      internalID: 570751748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 306
+        width: 109
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64a493b900646043bf09cb1f9c4b6cf
+      internalID: 1583215667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 306
+        width: 110
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e016efc87bf56294fab3a70391b37158
+      internalID: 1931836067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 114
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d28e80814c51404a8961278d3641897
+      internalID: -986009253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 199
+        width: 114
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a535db0e444f9f34695cd737f99d5a84
+      internalID: -1309896137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 199
+        width: 225
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f14fc08ac899841ba01fd63f4b62f2
+      internalID: 912567608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 118
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d67c3b5788310a449f541a7459c2215
+      internalID: 401369954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 100
+        width: 119
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474ff10728565e7409468ffcd150400c
+      internalID: -410007621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_26
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 100
+        width: 119
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea606f5a98b554cbf7585a861c86fb
+      internalID: 1697572657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 133
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb0e0a33cec08e468815b300ad8b7f4
+      internalID: 641273721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 134
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6528f843d8f5f4e9e8ae7f70a2bc60
+      internalID: -947964944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sci-fi guns_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 134
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0dec164a503b441b80961ad070781b
+      internalID: -160275002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sci-fi guns_0: 332201954
+      Sci-fi guns_1: -1956980450
+      Sci-fi guns_10: 967872507
+      Sci-fi guns_11: -987670317
+      Sci-fi guns_12: 604847519
+      Sci-fi guns_13: 625226998
+      Sci-fi guns_14: -743913536
+      Sci-fi guns_15: 864775935
+      Sci-fi guns_16: -510060288
+      Sci-fi guns_17: 1759589112
+      Sci-fi guns_18: 570751748
+      Sci-fi guns_19: 1583215667
+      Sci-fi guns_2: -1300685755
+      Sci-fi guns_20: 1931836067
+      Sci-fi guns_21: -986009253
+      Sci-fi guns_22: -1309896137
+      Sci-fi guns_23: 912567608
+      Sci-fi guns_24: 401369954
+      Sci-fi guns_25: -410007621
+      Sci-fi guns_26: 1697572657
+      Sci-fi guns_27: 641273721
+      Sci-fi guns_28: -947964944
+      Sci-fi guns_29: -160275002
+      Sci-fi guns_3: 1873976275
+      Sci-fi guns_4: -572764957
+      Sci-fi guns_5: -1215021118
+      Sci-fi guns_6: 1063867077
+      Sci-fi guns_7: 703406852
+      Sci-fi guns_8: 130859862
+      Sci-fi guns_9: -1076088325
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
